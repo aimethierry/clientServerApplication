@@ -1,0 +1,8 @@
+C:\Users\I409677\Desktop\service\bin\Debug\service.dll
+C:\Users\I409677\Desktop\service\bin\Debug\service.pdb
+C:\Users\I409677\Desktop\service\bin\Debug\contract.dll
+C:\Users\I409677\Desktop\service\bin\Debug\contract.pdb
+C:\Users\I409677\Desktop\service\obj\Debug\service.csprojAssemblyReference.cache
+C:\Users\I409677\Desktop\service\obj\Debug\service.csproj.CopyComplete
+C:\Users\I409677\Desktop\service\obj\Debug\service.dll
+C:\Users\I409677\Desktop\service\obj\Debug\service.pdb
