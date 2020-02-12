@@ -6,3 +6,10 @@ C:\Users\I409677\Desktop\service\obj\Debug\service.csprojAssemblyReference.cache
 C:\Users\I409677\Desktop\service\obj\Debug\service.csproj.CopyComplete
 C:\Users\I409677\Desktop\service\obj\Debug\service.dll
 C:\Users\I409677\Desktop\service\obj\Debug\service.pdb
+C:\Users\aimet\Desktop\school\client server aplication\clientServerApplication\service\bin\Debug\service.pdb
+C:\Users\aimet\Desktop\school\client server aplication\clientServerApplication\service\bin\Debug\contract.dll
+C:\Users\aimet\Desktop\school\client server aplication\clientServerApplication\service\bin\Debug\contract.pdb
+C:\Users\aimet\Desktop\school\client server aplication\clientServerApplication\service\obj\Debug\service.csproj.CopyComplete
+C:\Users\aimet\Desktop\school\client server aplication\clientServerApplication\service\obj\Debug\service.pdb
+C:\Users\aimet\Desktop\school\client server aplication\clientServerApplication\service\bin\Debug\service.exe
+C:\Users\aimet\Desktop\school\client server aplication\clientServerApplication\service\obj\Debug\service.exe

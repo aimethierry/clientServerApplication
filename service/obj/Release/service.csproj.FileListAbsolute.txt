@@ -1,0 +1,7 @@
+C:\Users\aimet\Desktop\school\client server aplication\clientServerApplication\service\bin\Release\service.dll
+C:\Users\aimet\Desktop\school\client server aplication\clientServerApplication\service\bin\Release\service.pdb
+C:\Users\aimet\Desktop\school\client server aplication\clientServerApplication\service\bin\Release\contract.dll
+C:\Users\aimet\Desktop\school\client server aplication\clientServerApplication\service\bin\Release\contract.pdb
+C:\Users\aimet\Desktop\school\client server aplication\clientServerApplication\service\obj\Release\service.csproj.CopyComplete
+C:\Users\aimet\Desktop\school\client server aplication\clientServerApplication\service\obj\Release\service.dll
+C:\Users\aimet\Desktop\school\client server aplication\clientServerApplication\service\obj\Release\service.pdb
